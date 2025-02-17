@@ -19,7 +19,8 @@ Linux bukan hanya satu sistem operasi, melainkan sebuah keluarga dari berbagai d
 # Perbandingan
 ## 1. Performa dan penggunakan sumber daya
 ## < Task Manager dan System Monitor
-![alt text](https://github.com/fixxs/Perbedaan-Windows-Dan-Kali-Linux/blob/main/Screenshot%202025-02-10%20002902.png?raw=true)
+![Uploading Screenshot 2025-02-17 135535.png…]()
+
 
 Gambar di atas menunjukan perbandingan antara Task Manager(Windows)kiri dan System Monitor(Linux)kanan. kedua ini digunakan untuk memantau kinerja sistem, termasuk 
 CPU.Memori,dan Jaringan.
